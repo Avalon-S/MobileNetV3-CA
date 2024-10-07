@@ -1,5 +1,5 @@
 # MobileNetV3-CA
-This is the open-sourse code for paper(Improved lightweight identification of agricultural diseases based on MobileNetV3)
+This is the open-sourse code for paper(Improved lightweight identification of agricultural diseases based on MobileNetV3) [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10104447)
 ## Dataset
 [PlantVillage](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
