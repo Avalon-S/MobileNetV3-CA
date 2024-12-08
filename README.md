@@ -16,10 +16,11 @@ Some basic python packages such as Numpy, Pandas ......</br>
 
 ## Samples
 Samples 1,2 are simple use cases. You can add more processing functions.
-
-            @article{jiang2022improved,
-              title={Improved lightweight identification of agricultural diseases based on MobileNetV3},
-              author={Jiang, Yuhang and Tong, Wenping},
-              journal={arXiv preprint arXiv:2207.11238},
-              year={2022}
-            }
+```
+@article{jiang2022improved,
+  title={Improved lightweight identification of agricultural diseases based on MobileNetV3},
+  author={Jiang, Yuhang and Tong, Wenping},
+  journal={arXiv preprint arXiv:2207.11238},
+  year={2022}
+}
+```
